@@ -674,8 +674,6 @@ Initially created by [CodeSolu](https://www.youtube.com/@CodeSolu) at [Web Devel
 
 [⬆ back to top](#table-of-contents)
 
-Made by [Marko](https://markodenic.com).
-
-Similar amazing projects: [Public APIs](https://publicapis.dev) - [Dev Resources](https://devresourc.es)
+Made by [CodeSolu](https://www.youtube.com/@CodeSolu).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
