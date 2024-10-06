@@ -12,7 +12,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ---
 
-Initially created by [Marko](https://markodenic.com) at [Web Development Resources](https://markodenic.com/free-web-development-resources/).
+Initially created by [CodeSolu](https://www.youtube.com/@CodeSolu) at [Web Development Resources](https://github.com/RohanMagar7/Free-Web-Dev-Resources).
 
 ## Table of Contents
 
